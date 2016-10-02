@@ -15,6 +15,7 @@ public class Link {
 		
 		this.bookName = bookName;
 		this.millionsSold = millionsSold;
+		System.out.println("hahaha");
 		
 	}
 	
